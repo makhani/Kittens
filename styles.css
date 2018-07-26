@@ -19,3 +19,19 @@ header {
   background-attachment: fixed;
   background-position: center;
 }
+H1 {
+  text-align: center;
+}
+main {
+  padding-top: 15px;
+}
+aside {
+  padding: 30px;
+  background-color: white;
+  color: black;
+}
+footer {
+  padding: 30px;
+  background-color: #f7786b;
+  color: white;
+}
