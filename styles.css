@@ -1,7 +1,7 @@
 body {
   background-color: #eea29a;
   padding: 30px;
-  color:black;
+  color: white;
 }
 nav {
   padding: 30px;
@@ -28,7 +28,7 @@ main {
 aside {
   padding: 30px;
   background-color: #f7cac9;
-  color: black;
+  color: white;
 }
 footer {
   padding: 30px;
