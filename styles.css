@@ -1,3 +1,12 @@
 body {
-  background-color: #eca1a6;
+  background-color: #eea29a;
+  color:black;
+}
+nav {
+  padding: 30px;
+  background-color: #b2b2b2;
+  position: sticky;
+  top: 0;
+  text-shadow: 1px 1px 0 #444;
+  color: white;
 }
