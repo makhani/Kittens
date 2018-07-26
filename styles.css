@@ -24,13 +24,26 @@ H1 {
 }
 main {
   padding-top: 15px;
+  display: grid;
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer';
+  grid-gap: 30px;
 }
 aside {
+  grid-area: aside;
   padding: 30px;
   background-color: #f7cac9;
   color: white;
 }
+article {
+  grid-area: article;
+  padding: 30px;
+  background-color:white:
+  color: white;
+}
 footer {
+  grid-area: footer;
   padding: 30px;
   background-color: #f7786b;
   color: white;
